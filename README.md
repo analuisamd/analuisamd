@@ -1,10 +1,4 @@
 ### Olá! 
-
-<div align="center">
-  <a href="https://github.com/analuisamd">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=analuisamd&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
-</div>
-    
 ##
   
 <div align="center"> 
